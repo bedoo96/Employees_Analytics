@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+openpyxl
+plotly
+langchain
+langchain-openai
+langchain-community
+openai
+requests
+tabulate
+python-dotenv
